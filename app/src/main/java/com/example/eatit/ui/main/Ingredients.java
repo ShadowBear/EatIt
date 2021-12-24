@@ -16,6 +16,4 @@ public interface Ingredients {
     public float pricePerPiece = 0;
     public UUID IngredientsId = UUID.randomUUID();
 
-
-
 }

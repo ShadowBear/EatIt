@@ -31,4 +31,8 @@ public class Meal {
         this.healthiness = healthiness;
         this.mealTypeList = mealTypeList;
     }
+
+    public int GetMealPrice(){
+        return 0;
+    }
 }
